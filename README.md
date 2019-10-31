@@ -2,7 +2,7 @@
 This repository contains code examples to get better value from JIRA
 
 # Instructions
-First step is to install Jira module from pycontribs. Download and install using "pip install jira". If you use conda, refer <a href="https://anaconda.org/conda-forge/jira">this page</a>.
+First step is to install Jira module from <a href="https://github.com/pycontribs/jira">pycontribs</a>. Download and install using "pip install jira". If you use conda, refer <a href="https://anaconda.org/conda-forge/jira">this page</a>.
 
 You can either use your JIRA username and password OR get API token from JIRA to connect to your JIRA instance. Getting API token is preferable, because you don't want to expose your plain text password in python code. Atlassian has <a href="https://confluence.atlassian.com/cloud/api-tokens-938839638.html">instructions</a> to create API token.
 
